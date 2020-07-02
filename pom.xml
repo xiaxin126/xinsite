@@ -32,7 +32,7 @@
         <commons-codec.version>1.11</commons-codec.version>
         <shiro.version>1.4.0</shiro.version>
         <druid.version>1.1.14</druid.version>
-        <mysql-connector.version>8.0.13</mysql-connector.version>
+        <mysql-connector.version>8.0.16</mysql-connector.version>
         <thymeleaf.extras.shiro.version>2.0.0</thymeleaf.extras.shiro.version>
         <bitwalker.version>1.20</bitwalker.version>
         <oshi.version>3.9.1</oshi.version>
