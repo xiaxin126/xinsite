@@ -44,7 +44,7 @@
         <poi.version>3.16</poi.version>
         <fst.version>2.57</fst.version>
         <commons-io.version>2.5</commons-io.version>
-        <jackson.version>2.9.5</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
         <json.version>20180130</json.version>
         <commons-email.version>1.5</commons-email.version>
         <activation.version>1.1.1</activation.version>
