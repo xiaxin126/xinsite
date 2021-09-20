@@ -30,7 +30,7 @@
         <xinsite.version>1.0.0</xinsite.version>
         <commons-lang3.version>3.8.1</commons-lang3.version>
         <commons-codec.version>1.11</commons-codec.version>
-        <shiro.version>1.4.0</shiro.version>
+        <shiro.version>1.8.0</shiro.version>
         <druid.version>1.1.14</druid.version>
         <mysql-connector.version>8.0.13</mysql-connector.version>
         <thymeleaf.extras.shiro.version>2.0.0</thymeleaf.extras.shiro.version>
